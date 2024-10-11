@@ -1,0 +1,46 @@
+{
+    "title": "Fact-Checking Fundamentals",
+    "description": "Discover tools and strategies for verifying the credibility of news and media sources, ensuring the accuracy of shared information.",
+    "duration": "6 weeks",
+    "total_hours": "12 hours",
+    "level": "Beginner to Intermediate",
+    "delivery": "Online (Self-paced with live sessions)",
+    "topics": [
+      {
+        "topic_title": "Introduction to Fact-Checking",
+        "duration": "1.5 hours",
+        "description": "Overview of the importance of fact-checking in modern journalism and everyday information consumption. This module sets the stage for understanding how misinformation spreads and why fact-checking is critical in the digital age."
+      },
+      {
+        "topic_title": "Identifying Credible Sources",
+        "duration": "2 hours",
+        "description": "Learn how to recognize credible versus unreliable sources of information. This topic covers journalistic standards, source verification techniques, and how to assess the legitimacy of different types of media."
+      },
+      {
+        "topic_title": "Spotting Misinformation and Disinformation",
+        "duration": "1.5 hours",
+        "description": "Explore the differences between misinformation (false information spread without intent to deceive) and disinformation (false information spread with malicious intent), and understand how both impact public perception."
+      },
+      {
+        "topic_title": "Fact-Checking Tools and Resources",
+        "duration": "2 hours",
+        "description": "Discover digital tools, plugins, and resources available for verifying facts, images, and videos. You will learn to use tools like reverse image search, fact-checking databases, and browser extensions to ensure information accuracy."
+      },
+      {
+        "topic_title": "Verifying Images and Videos",
+        "duration": "1.5 hours",
+        "description": "This module covers techniques to verify the authenticity of visual media. Learn how to identify digitally manipulated images or deepfakes, and how to use reverse image search tools for verification."
+      },
+      {
+        "topic_title": "The Ethics of Fact-Checking",
+        "duration": "1.5 hours",
+        "description": "Dive into the ethical considerations surrounding fact-checking. Explore the responsibility of journalists, researchers, and individuals in maintaining information integrity and avoiding biases in the verification process."
+      },
+      {
+        "topic_title": "Applying Fact-Checking in Everyday Life",
+        "duration": "1.5 hours",
+        "description": "Learn how to apply the fact-checking strategies you've acquired to everyday situations. Whether you are sharing news on social media or researching a topic, these practices will ensure your information is reliable."
+      }
+    ]
+  }
+  

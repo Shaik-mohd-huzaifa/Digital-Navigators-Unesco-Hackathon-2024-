@@ -1,0 +1,1 @@
+export const IdeasSelector = (state) => state.ideas;

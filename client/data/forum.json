@@ -1,0 +1,43 @@
+[
+    {
+      "category": "Misinformation & Disinformation",
+      "details": "Focus on identifying, understanding, and combating the spread of false information. Topics include fake news, deepfakes, and conspiracy theories.",
+      "publications": 13
+    },
+    {
+        "category": "Media Literacy & Critical Thinking",
+        "details": "Teach users how to critically analyze media content, including news sources, social media, and advertisements. Emphasize the importance of verifying facts before believing or sharing information.",
+        "publications": 24
+    },
+    {
+        "category": "Digital Privacy & Security",
+        "details": "Cover topics on how to protect personal information online, including using secure passwords, avoiding phishing scams, and understanding privacy policies."
+        ,"publications": 10
+    },
+    {
+        "category": "Civic Education & Engagement",
+        "details": "Encourage users to participate in civic life responsibly by providing accurate information on voting rights, civic duties, and government structure."
+        ,"publications": 9
+    },
+    {
+        "category": "Health Information & Medical Misinformation",
+        "details": "Provide resources for recognizing and avoiding health-related misinformation, such as on vaccines, diets, and public health issues like COVID-19."
+        ,"publications": 12
+    },
+    {
+        "category": "Environmental Awareness & Sustainability",
+        "details": "Guide users to understand climate change, sustainable practices, and environmental issues. Offer actionable steps for reducing carbon footprints."
+        ,"publications": 17
+    },
+    {
+        "category": "Fact-Checking Tools & Resources",
+        "details": "Share tools and resources for verifying the authenticity of online content, such as fact-checking websites, image verification tools, and credible news sources."
+        ,"publications": 16
+    },
+    {
+        "category": "Social Media Influence & Responsibility",
+        "details": "Discuss the role of social media in shaping public opinion, spreading misinformation, and how to responsibly use platforms to share accurate information."
+        ,"publications": 25
+    }
+  ]
+  

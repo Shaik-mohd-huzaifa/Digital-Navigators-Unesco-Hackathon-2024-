@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "category": "All"
+    },
+    {
+      "id": 1,
+      "category": "Fact-Checking and Misinformation"
+    },
+    {
+      "id": 2,
+      "category": "Digital Literacy"
+    },
+    {
+      "id": 3,
+      "category": "Ethics and AI in Media"
+    },
+    {
+      "id": 4,
+      "category": "Cybersecurity and Online Safety"
+    },
+    {
+      "id": 5,
+      "category": "Digital Storytelling"
+    },
+    {
+      "id": 6,
+      "category": "Media Production and Curation"
+    },
+    {
+      "id": 7,
+      "category": "Youth Digital Advocacy"
+    },
+    {
+      "id": 8,
+      "category": "Responsible Online Sharing"
+    },
+    {
+      "id": 9,
+      "category": "Sustainable Media Practices"
+    },
+    {
+      "id": 10,
+      "category": "Interactive Learning Tools"
+    }
+  ]
+  

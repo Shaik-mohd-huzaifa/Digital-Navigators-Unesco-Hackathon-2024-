@@ -1,0 +1,90 @@
+.learning{
+    width: 100%;
+    .header{
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+        padding:0 20px;
+        box-sizing: border-box;
+        justify-content: space-between;
+        background-color: black;
+        background-image:url("/header/learning.png");
+        background-position: bottom right;
+        background-size: cover;
+        height: 150px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+
+        h2{
+            width: fit-content;
+            color: white;
+
+        }
+        .quiz-container{
+            display: flex;
+            width: 30%;
+            margin-bottom: 10px;
+            column-gap: 10px;
+            a{
+                width: 45%;
+                text-align: center;
+                padding: 10px 5px;
+                box-sizing: border-box;
+                border-radius: 25px;
+                color: white;
+                font-weight: 500;
+                background-color: black;
+            }
+        }
+    }
+    .categories{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 10px;
+        row-gap: 10px;
+        span{
+            padding: 5px 10px;
+            border-radius: 25px;
+            color: white;
+            // font-weight: 500;
+            background-color: #00adee;
+            cursor: pointer;
+        }
+    }
+    .courses{
+        width: 100%;
+        margin-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 10px;
+        column-gap: 1%;
+        cursor: pointer;
+        .course{
+            border-radius: 10px;
+            // padding: 10px;
+            font-size: 17px;
+            padding-left: 40px;
+            box-sizing: border-box;
+            background-color: #ffcc00;
+            font-weight: 500;
+            height: 100px;
+            width: 32%;
+            position: relative;
+            p{
+                color: white;
+                width: 60%;
+            }
+            img{
+                position: absolute;
+                right: -5px;
+                bottom: -15px;
+                transform: rotate(-25deg);
+            }
+            transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        .course:hover{
+            transform: scale(1.01);
+        }
+    }
+}

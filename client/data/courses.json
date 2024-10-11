@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "documents",
+      "title": "Introduction to Media and Information Literacy",
+      "description": "Learn the basics of media literacy, including how to critically assess information, identify misinformation, and navigate digital spaces responsibly."
+    },
+    {
+      "id": 2,
+      "image": "research",
+      "title": "Fact-Checking Fundamentals",
+      "description": "Discover tools and strategies for verifying the credibility of news and media sources, ensuring the accuracy of shared information."
+    },
+    {
+      "id": 3,
+      "image": "artificial-intelligence",
+      "title": "AI in Media: Opportunities and Challenges",
+      "description": "Explore the role of Artificial Intelligence in media, from content creation to misinformation detection, and understand its ethical implications."
+    },
+    {
+      "id": 4,
+      "image":"bias",
+      "title": "Understanding Media Bias",
+      "description": "Learn how to recognize media bias in various news outlets and understand its impact on public perception and critical thinking."
+    },
+    {
+      "id": 5,
+      "image": "storytelling",
+      "title": "Digital Storytelling for Youth",
+      "description": "A practical course on using digital tools to create compelling and ethical stories that highlight key social issues and digital literacy."
+    },
+    {
+      "id": 6,
+      "image": "cyber-security",
+      "title": "Cybersecurity Essentials for Digital Citizens",
+      "description": "Gain essential knowledge about protecting personal information online, including password safety, privacy, and recognizing phishing attempts."
+    },
+    {
+      "id": 7,
+      "image": "researcher",
+      "title": "Effective Online Research Techniques",
+      "description": "Learn how to find reliable sources of information online, avoid misinformation, and improve your research skills for media and academic purposes."
+    },
+    {
+      "id": 8,
+      "image": "touch",
+      "title": "Youth Activism in the Digital Age",
+      "description": "Understand the power of digital activism and how youth can drive social change through online campaigns and responsible media usage."
+    },
+    {
+      "id": 9,
+      "image": "ethical-leadership",
+      "title": "Digital Etiquette and Ethical Communication",
+      "description": "Master the art of respectful and effective communication in digital spaces, from social media to professional interactions."
+    },
+    {
+      "id": 10,
+      "image": "communities",
+      "title": "Building Positive Online Communities",
+      "description": "Explore how to foster inclusivity, support, and positive engagement in online communities, ensuring they are safe and welcoming for all."
+    }
+  ]
+  

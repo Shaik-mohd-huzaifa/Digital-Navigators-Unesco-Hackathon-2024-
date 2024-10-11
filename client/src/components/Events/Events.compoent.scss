@@ -1,0 +1,108 @@
+$base-color: #3f51b5;
+.header{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0;
+    justify-content: space-between;
+    background-color: #f8f3ed;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url("/header/event.png");
+    padding: 0px 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    h2{
+        width: fit-content;
+        color: black;
+    }
+    .quiz-container{
+        display: flex;
+        width: 30%;
+        justify-content: flex-end;
+        column-gap: 10px;
+        p{
+            width: 45%;
+            text-align: center;
+            padding: 10px 5px;
+            box-sizing: border-box;
+            border-radius: 25px;
+            color: white;
+            font-weight: 500;
+            background-color: black;
+        }
+    }
+}
+.events{
+    display: flex;
+    flex-wrap: wrap;
+    .event-card {
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        max-width: 350px;
+        margin: 16px;
+        background-color: #fff;
+        justify-content: space-between;
+      }
+      
+      .event-card-image {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+      
+      .event-card-content {
+        padding: 16px;
+      }
+      
+      .event-card-title {
+        font-size: 1.5em;
+        margin: 0;
+      }
+      
+      .event-card-description {
+        margin: 8px 0;
+        color: #666;
+      }
+      
+      .event-card-details {
+        margin: 16px 0;
+      }
+      
+      .event-card-detail {
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+      }
+      
+      .event-card-icon {
+        margin-right: 8px;
+        color: $base-color;
+      }
+      
+      .event-card-rsvp-button {
+        display: inline-block;
+        padding: 10px 20px;
+        width: 100%;
+        font-size: 1em;
+        color: #fff;
+        background-color: $base-color;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+      }
+      
+      .event-card-rsvp-button:hover {
+        background-color: #0056b3;
+      }
+      
+}

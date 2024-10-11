@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "event_name": "Tackling Misinformation in the Digital Age",
+      "description": "A workshop focused on identifying and combating misinformation in online media.",
+      "date": "2024-10-15",
+      "time": "10:00 AM - 12:00 PM",
+      "location": "Community Hall, 5th Avenue, New York, NY",
+      "host_name": "John Anderson",
+      "image": "/events/tackling.png"
+    },
+    {
+      "id": 2,
+      "event_name": "The Role of AI in Media Literacy",
+      "description": "An insightful discussion on how AI is reshaping media literacy education and content creation.",
+      "date": "2024-11-05",
+      "time": "2:00 PM - 4:00 PM",
+      "location": "Tech Hub, Silicon Valley, CA",
+      "host_name": "Sophia Martinez",
+      "image": "/events/AI_Writing_Articles.webp"
+    },
+    {
+      "id": 3,
+      "event_name": "Youth Digital Activism: Shaping the Future",
+      "description": "A panel of young activists sharing their experiences in using digital platforms to drive change.",
+      "date": "2024-10-22",
+      "time": "11:00 AM - 1:00 PM",
+      "location": "Youth Center, London, UK",
+      "host_name": "Emily Johnson",
+      "image": "/events/youth.jpg"
+    },
+    {
+      "id": 4,
+      "event_name": "Cybersecurity Basics for Digital Literacy",
+      "description": "A hands-on workshop teaching the fundamentals of online safety and data privacy.",
+      "date": "2024-12-01",
+      "time": "9:00 AM - 11:30 AM",
+      "location": "Innovation Center, Berlin, Germany",
+      "host_name": "David Muller",
+      "image": "/events/digital.jpg"
+    },
+    {
+      "id": 5,
+      "event_name": "Fact-Checking and Media Bias in Journalism",
+      "description": "A deep dive into media bias and the importance of fact-checking in today's digital world.",
+      "date": "2024-11-18",
+      "time": "3:00 PM - 5:00 PM",
+      "location": "Journalism Institute, Toronto, Canada",
+      "host_name": "Rachel Lee",
+      "image": "/events/fake-news.jpg"
+    },
+    {
+      "id": 6,
+      "event_name": "The Future of Media Consumption: Trends & Predictions",
+      "description": "Explore the evolving landscape of media consumption with a focus on emerging trends and technology.",
+      "date": "2024-12-12",
+      "time": "1:00 PM - 3:00 PM",
+      "location": "Media Lab, Tokyo, Japan",
+      "host_name": "Hiroshi Tanaka",
+      "image": "/events/images.jfif"
+    }
+  ]
+  

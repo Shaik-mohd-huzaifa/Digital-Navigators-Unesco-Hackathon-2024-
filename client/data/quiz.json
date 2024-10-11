@@ -1,0 +1,105 @@
+{
+    "quiz_questions": [
+      {
+        "question": "What is the primary goal of fact-checking?",
+        "options": [
+          "A) To discredit all news sources",
+          "B) To verify the accuracy and credibility of information",
+          "C) To spread more information online",
+          "D) To create more viral content"
+        ],
+        "answer": "B) To verify the accuracy and credibility of information"
+      },
+      {
+        "question": "Which of the following is a key characteristic of a credible source?",
+        "options": [
+          "A) It has been shared many times on social media",
+          "B) It cites verifiable data and references",
+          "C) It uses emotional and sensational language",
+          "D) It avoids providing sources"
+        ],
+        "answer": "B) It cites verifiable data and references"
+      },
+      {
+        "question": "What is the difference between misinformation and disinformation?",
+        "options": [
+          "A) Misinformation is false information spread intentionally, disinformation is accidental",
+          "B) Misinformation is unverified, disinformation is verified",
+          "C) Misinformation is false information spread without intent to deceive, disinformation is spread with intent to deceive",
+          "D) They are the same thing"
+        ],
+        "answer": "C) Misinformation is false information spread without intent to deceive, disinformation is spread with intent to deceive"
+      },
+      {
+        "question": "Which tool is commonly used to verify the authenticity of images?",
+        "options": [
+          "A) Reverse image search",
+          "B) Grammar checker",
+          "C) Spell checker",
+          "D) Auto-translate"
+        ],
+        "answer": "A) Reverse image search"
+      },
+      {
+        "question": "What is an important first step in verifying a news story?",
+        "options": [
+          "A) Checking the number of social media shares",
+          "B) Reading only the headline",
+          "C) Identifying the original source of the story",
+          "D) Forwarding it to friends for opinions"
+        ],
+        "answer": "C) Identifying the original source of the story"
+      },
+      {
+        "question": "What is 'confirmation bias' in the context of fact-checking?",
+        "options": [
+          "A) Accepting only the information that aligns with your pre-existing beliefs",
+          "B) Verifying facts from multiple sources",
+          "C) Relying only on a single source of information",
+          "D) Avoiding opinions in news"
+        ],
+        "answer": "A) Accepting only the information that aligns with your pre-existing beliefs"
+      },
+      {
+        "question": "Which of the following is a reliable source for fact-checking?",
+        "options": [
+          "A) Wikipedia articles",
+          "B) Verified fact-checking organizations like Snopes or FactCheck.org",
+          "C) Viral social media posts",
+          "D) Personal blogs"
+        ],
+        "answer": "B) Verified fact-checking organizations like Snopes or FactCheck.org"
+      },
+      {
+        "question": "Why is it important to check the publication date of a news article?",
+        "options": [
+          "A) To ensure the news is recent and relevant",
+          "B) To see how many shares the article received",
+          "C) To know how popular the article is",
+          "D) To verify the source’s accuracy"
+        ],
+        "answer": "A) To ensure the news is recent and relevant"
+      },
+      {
+        "question": "Which of these is NOT a digital tool used for fact-checking?",
+        "options": [
+          "A) Fact-checking databases",
+          "B) Reverse image search",
+          "C) Fake news generator",
+          "D) Browser extensions for source verification"
+        ],
+        "answer": "C) Fake news generator"
+      },
+      {
+        "question": "What ethical consideration is important in fact-checking?",
+        "options": [
+          "A) Fact-checking should only apply to news you disagree with",
+          "B) Fact-checking should be done without bias and based on evidence",
+          "C) Fact-checking should always prioritize speed over accuracy",
+          "D) Fact-checking should aim to discredit individuals"
+        ],
+        "answer": "B) Fact-checking should be done without bias and based on evidence"
+      }
+    ]
+  }
+  
